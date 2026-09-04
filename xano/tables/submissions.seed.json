@@ -1,0 +1,10 @@
+[
+  { "applicant_name": "Acme Warehouse LLC", "line_of_business": "property", "bound_sum": 40000, "status": "new" },
+  { "applicant_name": "Blue Harbor Marine", "line_of_business": "marine", "bound_sum": 250000, "status": "new" },
+  { "applicant_name": "Cedar Transport Co", "line_of_business": "auto", "bound_sum": 30000, "status": "new" },
+  { "applicant_name": "Delta Casualty Group", "line_of_business": "casualty", "bound_sum": 750000, "status": "new" },
+  { "applicant_name": "Everest Property Holdings", "line_of_business": "property", "bound_sum": 120000, "status": "assigned", "assigned_to": 1 },
+  { "applicant_name": "Foxtrot Auto Fleet", "line_of_business": "auto", "bound_sum": 15000, "status": "new" },
+  { "applicant_name": "Gulf Marine Cargo", "line_of_business": "marine", "bound_sum": 480000, "status": "new" },
+  { "applicant_name": "Harbor Casualty Partners", "line_of_business": "casualty", "bound_sum": 95000, "status": "new" }
+]

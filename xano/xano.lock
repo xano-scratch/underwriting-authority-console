@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "objects": {
+    "app:auth": {
+      "guid": "4fe67f5a2d319eaaca7996700f27edd8",
+      "canonical": "auth",
+      "canonical_source": "code"
+    },
+    "app:uw": {
+      "guid": "b1b8a09bc5a11b1bfb375bb939627a29",
+      "canonical": "uw",
+      "canonical_source": "code"
+    },
+    "dbo:decision_events": {
+      "guid": "230eaf7ad059a2dc0d78d6ee0d4683f7"
+    },
+    "dbo:submissions": {
+      "guid": "621e61de4e5b0be6d104c272a1057b90"
+    },
+    "dbo:users": {
+      "guid": "157d4a98d979cf04b9ccdb98dfc15229"
+    },
+    "query:auth|GET|me": {
+      "guid": "bfd70d24f92356209c72088852ec320e"
+    },
+    "query:auth|POST|login": {
+      "guid": "d39d74f907baeb484e9c93358362998a"
+    },
+    "query:uw|GET|queue": {
+      "guid": "6bbdc6c5a20a1890cdc0e67d8ac590b3"
+    },
+    "query:uw|GET|submissions/{id}": {
+      "guid": "3d458aa7819a3b19d65b396b8194e36f"
+    },
+    "query:uw|GET|underwriters": {
+      "guid": "5c5a1c3e6861cbbcf91945a0b54980d2"
+    },
+    "query:uw|POST|submissions": {
+      "guid": "bee2e69522aec03b7d61bf365dbad259"
+    },
+    "query:uw|POST|submissions/{id}/assign": {
+      "guid": "722898d543903d2e08a6ad6f81a6b144"
+    },
+    "query:uw|POST|submissions/{id}/decision": {
+      "guid": "3f1a7dc65285115aff1d795a99869d2d"
+    },
+    "query:uw|POST|submissions/{id}/refer": {
+      "guid": "f4301e1f7b4a0fe40353cbcafd030913"
+    }
+  }
+}

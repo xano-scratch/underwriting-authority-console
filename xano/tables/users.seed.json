@@ -1,0 +1,26 @@
+[
+  {
+    "email": "underwriter@example.com",
+    "password": "password123",
+    "name": "Uma Underwriter",
+    "role": "underwriter",
+    "authority_limit": 50000,
+    "active": true
+  },
+  {
+    "email": "senior@example.com",
+    "password": "password123",
+    "name": "Simon Senior",
+    "role": "senior_underwriter",
+    "authority_limit": 500000,
+    "active": true
+  },
+  {
+    "email": "admin@example.com",
+    "password": "password123",
+    "name": "Ada Admin",
+    "role": "admin",
+    "authority_limit": 1000000000,
+    "active": true
+  }
+]
