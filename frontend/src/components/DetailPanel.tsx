@@ -139,7 +139,7 @@ export function DetailPanel({
             Your authority limit is {money(me.authority_limit)}. This bound sum is {money(sub.bound_sum)}.{" "}
             {overLimit ? (
               <span className="text-red-400">
-                Over your limit — an approve or decline here is refused by the API and referred.
+                Over your limit, so an approve or decline here is refused by the API and referred.
               </span>
             ) : (
               <span className="text-emerald-400">Within your authority.</span>
